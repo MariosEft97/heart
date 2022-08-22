@@ -13,4 +13,4 @@ The following classification techniques were used:
 - Random Forest
 - AdaBoost
 
-The technique retrieving the highest accuracy was used to make predictions.
+The technique retrieving the highest accuracy on the train data was used to make predictions on the test data.
