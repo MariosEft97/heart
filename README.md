@@ -12,3 +12,5 @@ The following classification techniques were used:
 - Decision Tree
 - Random Forest
 - AdaBoost
+
+The technique retrieving the highest accuracy was used to make predictions.
